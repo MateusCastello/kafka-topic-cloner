@@ -8,11 +8,11 @@
   revision = "e7238b119b7daab993720f0153eafb88e2b0ac1f"
   source = "http://github.com/Shopify/sarama"
 
-[[projects]]
-  name = "github.com/bsm/sarama-cluster"
-  packages = ["."]
-  revision = "cf455bc755fe41ac9bb2861e7a961833d9c2ecc3"
-  version = "v2.1.13"
+// [[projects]]
+//   name = "github.com/bsm/sarama-cluster"
+//   packages = ["."]
+//   revision = "cf455bc755fe41ac9bb2861e7a961833d9c2ecc3"
+//   version = "v2.1.13"
 
 [[projects]]
   name = "github.com/davecgh/go-spew"

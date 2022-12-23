@@ -2,14 +2,14 @@
   name = "github.com/Shopify/sarama"
   source = "http://github.com/Shopify/sarama"
   branch = "master"
-  
-[[constraint]]
-  name = "github.com/bsm/sarama-cluster"
-  version = "2.1.13"
+
+// [[constraint]]
+//   name = "github.com/bsm/sarama-cluster"
+//   version = "2.1.13"
 
 [[constraint]]
   name = "github.com/spf13/cobra"
-  version = "0.0.2"
+  version = "1.6.1"
 
 [prune]
   go-tests = true

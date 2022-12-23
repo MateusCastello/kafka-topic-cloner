@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/ricardo-ch/kafka-topic-cloner/cmd"
+import "github.com/MateusCastello/kafka-topic-cloner/cmd"
 
 func main() {
 	cmd.Execute()
